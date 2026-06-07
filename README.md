@@ -131,9 +131,25 @@ model.summary()
 
 ---
 
-## 👤 Author
+### 🎓 Academic Affiliation & Coursework Info
+* **Institution:** Alma Mater Studiorum – Università di Bologna (University of Bologna)
+* **Degree Program:** Master's in Electronics Engineering for Intelligent Systems, Big Data and IoT
+* **Course:** Deep Learning
+* **Teacher**: Andrea Asperti
+* **Tutor**: Fabio Merizzi
+* **Tutor**: Beniamino Tartufoli
+* **Author:** Mahdi Zavvar ([Github](https://github.com/M-zavvar/deepLearning.git))
 
-**Mahdi Zavvar** *Project Submission Workbook for Deep Learning course at University of Bologna(Electronics engineering for intelligent systems, big-data and Internet of things*
+### ⚖️ License
+This project code and associated materials are licensed under the **MIT License**.
+
+```text
+Copyright (c) 2026 Mahdi Zavvar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+...
 
 ```
 
